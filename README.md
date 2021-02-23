@@ -1,11 +1,11 @@
-# Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
+# Exercise-02-Project-2D arcade space shooter
+Project for MSCH-C220, completed on 2/23/21
 
-A Godot Project Template, for use in future projects.
+A space shooter game, with enemies, space junk, and two types of weapons. 
 
 ## Implementation
 Built using Godot 3.2.3
-Includes WASD mappings (up, left, down, right) and escape to quit.
+Includes mapping for left, right, shoot1, and shoot2(A,D,Space,CTRL(respectively))
 
 ## References
 None
